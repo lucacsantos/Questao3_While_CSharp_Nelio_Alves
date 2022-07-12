@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEFIucWmNSMqluLo89SLIwIUdsETTdx2OuWyLabewOLBBQ5qmd4DE65BrL0zbYMeEjqeRjdw9wrEIWj+rnXJ5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Estudos\\c#_nelio_udemy\\Exercicio_Estrutura_While\\questao3\\questao3\\questao3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
